@@ -2,11 +2,10 @@
 
 2D Platformer Game built with Rust and the Piston game engine.
 
-<div align="center">
-  <a href="YOUR_VIDEO_LINK_HERE" target="_blank">
-    <button>🎬 Watch Demo Video</button>
-  </a>
-</div>
+### Video  Demo
+
+https://github.com/user-attachments/assets/fb6b43c7-446f-4cb5-acbd-d818c9cda967
+
 
 ## Features
 - Classic 2D platformer mechanics
