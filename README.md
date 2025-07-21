@@ -1,5 +1,4 @@
-# rs-2dplatformer-piston
-
+### Rust 2D Game
 2D Platformer Game built with Rust and the Piston game engine.
 
 ### Video  Demo
