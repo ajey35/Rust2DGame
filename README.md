@@ -14,8 +14,8 @@ https://github.com/user-attachments/assets/fb6b43c7-446f-4cb5-acbd-d818c9cda967
 ## Quick Start
 ```bash
 # Clone the repository
-$ git clone https://github.com/YOUR_USERNAME/rs-2dplatformer-piston.git
-$ cd rs-2dplatformer-piston
+$ git clone https://github.com/YOUR_USERNAME/Rust2DGame.git
+$ cd Rust2DGame
 
 # Install Rust (if not already installed)
 $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
